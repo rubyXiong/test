@@ -1,7 +1,3 @@
 # test
 
-
-nihao a a
-
-
-冲突解决 
+temp分支修复bug完成
